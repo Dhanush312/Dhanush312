@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/tech-boy-desk.png" alt="Working with laptop and monitor" width="320" />
+<img src="https://readme-typing-svg.demolab.com/?lines=$+git+status;On+branch+main+✨+nothing+to+commit;+$+git+add+.;$+git+commit+-m+%22Ship+it+%F0%9F%9A%80%22;+$+git+push+origin+main;+Done.+%F0%9F%8E%89&center=true&font=Fira+Code&color=39FF14&width=420&height=140&duration=1800&pause=600&repeat=true&multiline=true" alt="Git terminal typing animation" />
 
 # Hi, I'm Dhanush Mendru 👋
 
