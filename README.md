@@ -20,7 +20,7 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
 - 💬 **Happy to talk about:** Python, CSS, HTML, and frontend best practices
 - 🏅 **Recent achievement:** Reached the **Champions Milestone** in the Google Cloud Arcade Program 2024
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* 
 
 ---
 
