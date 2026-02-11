@@ -74,12 +74,12 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush312&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
+  <img src="profile/stats.svg" alt="GitHub stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush312&theme=dark&hide_border=true" alt="Streak stats" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush312&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush312&theme=onedark&no-frame=true&no-bg=true&column=7" alt="Profile trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush312&theme=onedark&column=6" alt="Profile trophies" width="100%" />
 </p>
 
 ---
