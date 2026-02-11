@@ -60,6 +60,32 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushmendru&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushmendru&theme=dark&hide_border=true" alt="Streak stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushmendru&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## Featured Work
+
+*Projects I'm proud of—click to explore.*
+
+| Project | Description |
+|--------|-------------|
+| [Project 1](https://github.com/dhanushmendru) | *Add a short description and link to your repo* |
+| [Project 2](https://github.com/dhanushmendru) | *Add a short description and link to your repo* |
+
+*Replace the links and descriptions above with your actual repositories when ready.*
+
+---
+
 ## Connect With Me
 
 <p align="center">
