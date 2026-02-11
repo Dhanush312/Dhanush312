@@ -20,6 +20,17 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
 - 💬 **Happy to talk about:** Python, CSS, HTML, and frontend best practices
 - 🏅 **Recent achievement:** Reached the **Champions Milestone** in the Google Cloud Arcade Program 2024
 
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+## How I Work
+
+- **OS:** Windows
+- **Editor:** Visual Studio Code
+- **Browser:** Chrome (dev), Firefox (testing)
+- **One quirk:** I keep a small notepad for quick ideas before they become tickets
+
 ---
 
 ## Skills Summary
@@ -63,26 +74,33 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushmendru&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushmendru&theme=dark&hide_border=true" alt="Streak stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush312&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush312&theme=dark&hide_border=true" alt="Streak stats" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushmendru&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush312&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-## Featured Work
+## Contribution Snake
 
-*Projects I'm proud of—click to explore.*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanush312/Dhanush312/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanush312/Dhanush312/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Dhanush312/Dhanush312/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</p>
 
-| Project | Description |
-|--------|-------------|
-| [Project 1](https://github.com/dhanushmendru) | *Add a short description and link to your repo* |
-| [Project 2](https://github.com/dhanushmendru) | *Add a short description and link to your repo* |
+---
 
-*Replace the links and descriptions above with your actual repositories when ready.*
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush312&theme=onedark&no-frame=true&no-bg=true&column=7" alt="Profile trophies" width="100%" />
+</p>
 
 ---
 
