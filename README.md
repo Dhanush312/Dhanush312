@@ -24,15 +24,6 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
 
 ---
 
-## How I Work
-
-- **OS:** Windows
-- **Editor:** Visual Studio Code
-- **Browser:** Chrome (dev), Firefox (testing)
-- **One quirk:** I keep a small notepad for quick ideas before they become tickets
-
----
-
 ## Skills Summary
 
 *Technologies and practices I use to ship quality software—from idea to deployment.*
@@ -92,14 +83,6 @@ I'm a **frontend developer** with a focus on building clean, responsive interfac
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanush312/Dhanush312/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/Dhanush312/Dhanush312/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
   </picture>
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush312&theme=onedark&column=6" alt="Profile trophies" width="100%" />
 </p>
 
 ---
