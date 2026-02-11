@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%24+git+status;On+branch+main;%24+git+add+.;%24+git+commit+-m+%22Ship+it%22;%24+git+push+origin+main&center=true&font=Fira+Code&color=39FF14&width=380&height=100&duration=1500&pause=500&repeat=true)](https://git.io/typing-svg)
+<img src="assets/tech-boy-desk.png" alt="Tech with laptop and desktop" width="320" />
 
 # Hi, I'm Dhanush Mendru 👋
 
